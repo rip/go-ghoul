@@ -18,7 +18,7 @@ func main() {
 	color.Magenta.Println("  __ _  ___  ___  __ _ | |_   ___  _  _ | |")
 	color.Magenta.Println(" / _` |/ _ \\|___|/ _` || ' \\ / _ \\| || || |")
 	color.Magenta.Println(" \\__, |\\___/     \\__, ||_||_|\\___/ \\_,_||_|")
-	color.Magenta.Println(" |___/           |___/\u001b[0m")
+	color.Magenta.Println(" |___/           |___/")
 	// user input
 	usernamesPath := flag.String("u", "", "path to file containing usernames")
 	threads := flag.Int("t", 99, "amount of simultaneous checking threads")
