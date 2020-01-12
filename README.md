@@ -2,6 +2,6 @@
 
 crackers and checkers
 
-examples, practice code
+examples, practice code, throwaways
 
 some may be broken or buggy
