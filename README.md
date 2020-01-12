@@ -1,6 +1,6 @@
 # go-ghoul
 
-crackers and checkers
+checkers and crackers
 
 examples, practice code, throwaways
 
