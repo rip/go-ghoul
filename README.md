@@ -4,4 +4,4 @@ crackers and checkers
 
 examples, practice code
 
-some may be broken and buggy
+some may be broken or buggy
