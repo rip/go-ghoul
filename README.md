@@ -3,3 +3,5 @@
 crackers and checkers
 
 examples, practice code
+
+some may be broken and buggy
